@@ -2,7 +2,7 @@
 [패스트 캠퍼스 온라인 강의 참고]
 React-Query 를 이용해 포켓몬 도감 만들기
 
-##### Tech
+### Tech
 - **Language**: HTML, TypeScript
 - **Frontend**: React
 - **Design Style**: emotion/styled
